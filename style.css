@@ -1,0 +1,6 @@
+body { background: #f7fafd; }
+h3 { font-weight: 600; }
+.table th, .table td { vertical-align: middle !important; font-size: 14px;}
+#infoBMI {font-size: 15px; font-weight: 500;}
+/* Paging custom (optional) */
+.pagination .page-link {color:#0d6efd;}
